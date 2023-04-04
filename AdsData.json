@@ -4,13 +4,20 @@
   "data":[
     {
 
+      "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+      "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
+      "AdmobNative" : "ca-app-pub-3940256099942544/2247696110",
+
       "ApplovinInterstitial":"0a8bb6bc4cf03dcb",
       "ApplovinBanner":"7f10fafd9cea0d4b",
       "ApplovinMrec":"400dac93b0b3c022",
 
       "AdsCount" : "2",
 
-      "ActiveApp" : "yes"
+      "ActiveApp" : "yes",
+
+      "Switch":"admob"
+
 
 
 
