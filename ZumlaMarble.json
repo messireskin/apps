@@ -3,11 +3,12 @@
     "ads": 
       {
 		
-		"wortiseKey": "8956a057-981a-487a-b3a6-e8d40c8363c5",
+		"wortiseKey": "1234",
 		"wortiseBanner": "test-banner",
 		"wortiseInterstitial": "test-interstitial",
 		"wortiserewared": "test-rewarded",
-		"adshow" : true
+		"adshow" : true,
+		"counter":"30000"
 		
 		
 	    
