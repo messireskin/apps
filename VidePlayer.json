@@ -31,10 +31,10 @@
       "ads2_inter_splash":"/6499/example/interstitial",
       "ads2_inter_start":"/6499/example/interstitial",
       "ads2_native":"/6499/example/native",
-      "wortise_inter":"test-interstitial",
-      "wortise_inter_open":"test-app-open",
+      "wortise_inter":"b6cb1a81-b134-403c-9ba8-97fd561910e2",
+      "wortise_inter_open":"b6cb1a81-b134-403c-9ba8-97fd561910e2",
       "wortise_banner":"aa2b3d5e-ae4b-4a50-8814-2115bf833225",
-      "wortiseNative":"test-native"
+      "wortiseNative":"099580d3-0e1f-4486-b5e9-0bcd476cb10e"
       
    }
 }
